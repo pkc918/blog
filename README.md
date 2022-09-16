@@ -19,3 +19,5 @@
 - [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.cn/post/6844904034181070861)
 ## 操作系统
 ## 算法与数据结构
+- [代码随想录](https://programmercarl.com/)
+- [LABULADONG 的算法小抄](https://labuladong.github.io/algo/)
