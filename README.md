@@ -9,6 +9,7 @@
 ## 前端
 ### JavaScript 系列
 - [this 的值到底是什么？一次说清楚](https://zhuanlan.zhihu.com/p/23804247)
+- [javaScript--this](https://mp.weixin.qq.com/s/hYm0JgBI25grNG_2sCRlTA)
 - [详解JavaScript中的Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
 ### TypeScript 系列
 ### Vue 系列
