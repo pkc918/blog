@@ -31,6 +31,7 @@
 ## Node.js
 
 - [数据流中的积压问题](https://nodejs.org/zh-cn/docs/guides/backpressuring-in-streams/)
+- [EventLoop事件循环机制](https://nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick/)
 
 ## 数据库（MySql）
 
