@@ -30,6 +30,7 @@
 
 ## Node.js
 
+- [《深入理解Node.js：核心思想与源码分析》](https://yjhjstz.gitbooks.io/deep-into-node/content/)
 - [数据流中的积压问题](https://nodejs.org/zh-cn/docs/guides/backpressuring-in-streams/)
 - [EventLoop事件循环机制](https://nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick/)
 
