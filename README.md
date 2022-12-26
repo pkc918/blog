@@ -14,7 +14,6 @@
 
 ### JavaScript 系列
 
-- [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
 - [this 的值到底是什么？一次说清楚](https://zhuanlan.zhihu.com/p/23804247)
 - [前端面试之彻底搞懂this指向](https://mp.weixin.qq.com/s/hYm0JgBI25grNG_2sCRlTA)
 - [详解JavaScript中的Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
