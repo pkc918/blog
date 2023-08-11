@@ -22,6 +22,8 @@
 
 ### TypeScript 系列
 
+-[Ts高手篇：22个示例深入讲解Ts最晦涩难懂的高级类型工具](https://juejin.cn/post/6994102811218673700)
+
 ### Vue 系列
 
 ### React 系列
