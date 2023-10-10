@@ -26,6 +26,8 @@
 
 ### Vue 系列
 
+- [哇，好像真的理解vue3的diff了](https://juejin.cn/post/7287961549142655015)
+
 ### React 系列
 
 - [React技术揭秘](https://react.iamkasong.com/)
