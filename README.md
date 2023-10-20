@@ -6,8 +6,6 @@
 2. 🍔 提供一个便捷的博客入口
 3. 🍔 对优质博客的收集整理学习
 
-## 前端
-
 ### 前端学习路线
 
 - [roadmap](https://roadmap.sh/)
@@ -32,11 +30,15 @@
 
 - [React技术揭秘](https://react.iamkasong.com/)
 
-## Node.js
+## Node.js 系列
 
 - [《深入理解Node.js：核心思想与源码分析》](https://yjhjstz.gitbooks.io/deep-into-node/content/)
 - [数据流中的积压问题](https://nodejs.org/zh-cn/docs/guides/backpressuring-in-streams/)
 - [EventLoop事件循环机制](https://nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick/)
+
+## Golang
+
+- [Using a Mutex in Golang](https://www.sohamkamani.com/golang/mutex/)
 
 ## 数据库（MySql）
 
